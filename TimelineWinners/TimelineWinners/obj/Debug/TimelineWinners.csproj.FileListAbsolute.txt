@@ -1,0 +1,9 @@
+D:\Timeline_Winners\TimelineWinners\TimelineWinners\obj\Debug\TimelineWinners.csprojAssemblyReference.cache
+D:\Timeline_Winners\TimelineWinners\TimelineWinners\obj\Debug\TimelineWinners.csproj.CoreCompileInputs.cache
+D:\Timeline_Winners\TimelineWinners\TimelineWinners\bin\Debug\TimelineWinners.exe.config
+D:\Timeline_Winners\TimelineWinners\TimelineWinners\bin\Debug\TimelineWinners.exe
+D:\Timeline_Winners\TimelineWinners\TimelineWinners\bin\Debug\TimelineWinners.pdb
+D:\Timeline_Winners\TimelineWinners\TimelineWinners\obj\Debug\TimelineWinners.exe
+D:\Timeline_Winners\TimelineWinners\TimelineWinners\obj\Debug\TimelineWinners.pdb
+D:\Timeline_Winners\TimelineWinners\TimelineWinners\bin\Debug\Newtonsoft.Json.dll
+D:\Timeline_Winners\TimelineWinners\TimelineWinners\obj\Debug\TimelineWinners.csproj.CopyComplete
